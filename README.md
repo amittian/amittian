@@ -1,4 +1,4 @@
-### Hello, I'm Amit Kumar 👋
+### Hallo, I'm Amit Kumar 👋
 
 # 💫 About Me:
 🔭 I’m currently working on Generative AI.<br>👯 I’m looking to collaborate on Twitter Live.<br>🤝 I’m looking for help with building unified platform for LLMOps.<br>🌱 I’m currently learning more about Generative AI , VectorDatabase<br>💬 Ask me about AI or technology related stuff.<br>📥 How to reach me : Twitter - @amittian, Linkedin @amittian<br>⚡ Fun fact: I purchase books as decorative items for my study room.<br>🙂 He/His
